@@ -93,9 +93,10 @@ section {
 }
 
 .hero h1 {
-    font-size: 64px;
-    margin-bottom: 20px;
-    line-height: 1.1;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 78px;
+    font-weight: 700;
+    letter-spacing: -1px;
 }
 
 .hero h2 {
